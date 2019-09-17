@@ -19,7 +19,7 @@ INSTALLED_APPS = [
     # .......
     'import_export',
 ]
-
+```
 
 In admin.py from app directory, add this :
 ```python
