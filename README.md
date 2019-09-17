@@ -4,7 +4,7 @@ Simple import an Excel data to implementation in django model.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install .
 I asume that we have already install django and make project from it
 
 ```bash
