@@ -13,6 +13,14 @@ pip install django_import_export
 
 ## Usage
 
+In setting.py from project directory, add this :
+```python
+INSTALLED_APPS = [
+    # .......
+    'import_export',
+]
+
+
 In admin.py from app directory, add this :
 ```python
 # import your model first
