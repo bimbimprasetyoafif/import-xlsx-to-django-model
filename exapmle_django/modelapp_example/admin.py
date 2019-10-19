@@ -6,4 +6,4 @@ from import_export.admin import ImportExportModelAdmin
 # admin.site.register(CuriculumVitae)
 @admin.register(CuriculumVitae)
 class ViewAdmin(ImportExportModelAdmin):
-    exclude = ('id',)
+    pass
